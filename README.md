@@ -1,4 +1,4 @@
-# MP3 Splitter
+# MP3 Split
 
 The MP3 Splitter is a Python script that allows you to split a large MP3 audio file into smaller snippets of a specified duration. This can be useful for creating shorter segments from long audio recordings, such as podcasts, lectures, or music tracks.
 
